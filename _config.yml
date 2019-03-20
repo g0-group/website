@@ -1,6 +1,6 @@
 title: "G₀ Group"
 author: ""
-description: ""
+description: "The G₀ Group Blog"
 
 # Jekyll settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
@@ -21,6 +21,8 @@ navigation:                  # (optional) site navigation in the header
   - index.html
   - archive.md
   - about.md
+  - audits.md
+  - bugreports.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
