@@ -14,7 +14,6 @@ post_footer: true            # show previous and next links at the end of each p
 date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 
 # Theme settings
-remote_theme: "niklasbuschmann/contrast"
 style: default               # choose between "default", "contrast" and "minimal"
 dark_theme: false            # enables dark mode
 
