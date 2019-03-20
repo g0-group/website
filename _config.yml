@@ -1,4 +1,4 @@
-title: ""
+title: "G0 Group"
 author: ""
 description: ""
 
@@ -24,7 +24,7 @@ navigation:                  # (optional) site navigation in the header
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
-  github: "https://github.com"
+  github: "https://github.com/g0-group/"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
