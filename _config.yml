@@ -15,7 +15,7 @@ date_format: "%B %d, %Y"     # see http://shopify.github.io/liquid/filters/date/
 
 # Theme settings
 style: minimal               # choose between "default", "contrast" and "minimal"
-dark_theme: true            # enables dark mode
+dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
   - index.html
